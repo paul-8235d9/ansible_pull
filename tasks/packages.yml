@@ -1,0 +1,9 @@
+- name: Install packages
+  apt:
+    name:
+      - gparted
+      - htop
+      - snowflake
+      - sublime-text
+      - thunderbird
+      - visual-studio-code
