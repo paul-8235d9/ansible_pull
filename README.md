@@ -1,2 +1,4 @@
 # ansible_pull
-Generic Desktop Setup
+This is the Beginning of a Generic Desktop Setup currently based on Ubuntu.
+It will have all of the programs that I want on a new setup.
+* Htop
