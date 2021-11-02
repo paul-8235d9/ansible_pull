@@ -3,4 +3,4 @@
     user: ansible
     name: "ansible provision"
     minute: "*/10"
-    job: "/usr/bin/ansible-pull -o -U https://github.com/paul-8235d9/ansible_pull.git > /dev/null"
+    job: "/home/paul/.local/bin/ansible-pull -o -U https://github.com/paul-8235d9/ansible_pull.git > /dev/null"
